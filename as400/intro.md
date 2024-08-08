@@ -1,4 +1,4 @@
-# Introduction and Historical Background of IBM AS/400
+# IBM AS/400
 
 <div style="text-align:center"><img src="https://github.com/user-attachments/assets/502b8583-6803-4059-a072-4469fca25bd2" width="50%"/></div>
 
