@@ -1,7 +1,6 @@
 # Introduction and Historical Background of IBM AS/400
 
-![image](https://github.com/user-attachments/assets/502b8583-6803-4059-a072-4469fca25bd2)
-
+<div style="text-align:center"><img src="https://github.com/user-attachments/assets/502b8583-6803-4059-a072-4469fca25bd2" width="50%"/></div>
 
 ## The Dawn of a New Era in Business Computing
 
